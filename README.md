@@ -1,7 +1,8 @@
 Ben's Baller Bash Scripts
 ========
+### Contained within are bash scripts that make my life un-suck
 
-Starting Shit
+Starting Stuff
 --------
 
-* [10 instant tips to be happier now](https://github.com/workingBen/dont-forget-this-shit/blob/master/happiness/10_instant_tips.md)* [Start Crashpad](https://github.com/workingBen/bash-scripts/blob/master/start_crashpad.sh)
+* [Start Crashpad](https://github.com/workingBen/bash-scripts/blob/master/start_crashpad.sh)
