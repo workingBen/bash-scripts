@@ -7,12 +7,12 @@ USAGE
 ```bash
 cd ~
 git clone git@github.com:workingBen/bash-scripts.git
-echo "alias c=\"sh ~/bash-scripts/start_crashpad.sh\"" < ~/.bash_profile
+echo "alias c=\"sh ~/bash-scripts/start_crashpad.sh\"" > ~/.bash_profile
 source ~/.bash_profile
 c
 ```
 
-NOTE: for Okcupid Labs use `~/.bash_profile_includes/.scripts.sh` instaed of `~/.bash_profile`
+NOTE: for Okcupid Labs use `~/.bash_profile_includes/b3scripts.sh` instaed of `~/.bash_profile`
 
 Starting Stuff
 --------
