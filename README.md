@@ -1,4 +1,4 @@
-B<sup>3</sup> (Ben's Baller Bash) Scripts
+B<sup>3</sup>Scripts: (Ben's Baller Bash)
 ========
 ### Contained within are bash scripts that make my life un-suck
 
