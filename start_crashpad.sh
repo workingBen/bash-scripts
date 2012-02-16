@@ -1,6 +1,6 @@
 #!/bin/bash
 
-workspace_path="/Users/bpellow/workspace"
+workspace_path="~/workspace"
 name="Ben"
 greeting="Hey $name! CrashPad is started!"
 
