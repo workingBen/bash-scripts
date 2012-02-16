@@ -1,7 +1,7 @@
 #!/bin/bash
 
 workspace_path="~/workspace"
-name="Ben"
+name=`whoami`
 greeting="Hey $name! CrashPad is started!"
 
 function run_cmd {
